@@ -3,6 +3,8 @@
 author: @brendanmoore42
 date: Feb 23, 2019
 Twitch Translator: Display live closed captions
+
+--giveaway commands, modsbots, etc.
 """
 import re
 import sys
